@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Benedetta 👋 Thanks for visiting my Github profile 😄
 
 <!--
 **BeneArinci/BeneArinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
