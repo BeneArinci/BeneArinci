@@ -1,4 +1,4 @@
-### Hi there, I am Benedetta 👋 Thanks for visiting my Github profile 😄
+### Hi there, I am Benedetta 👋 Thanks for visiting my Github page 😄
 
 
 - 📚 I recently graduated from a selective 16-weeks coding bootcamp ([Makers](https://makers.tech/))
