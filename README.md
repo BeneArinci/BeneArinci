@@ -9,3 +9,5 @@
 
 
 You can get in contact with me at benedetta.arinci@gmail.com or visit my [LinkedIn profile](https://www.linkedin.com/in/benedetta-arinci/).
+
+HOT NEWS❗ --> my [virtual CV](https://benearinci-portfolio.netlify.app/) is now ready! 🌟
