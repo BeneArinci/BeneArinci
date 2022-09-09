@@ -2,7 +2,7 @@
 
 Here's something about who I am..
 
-- 👶  a junior software developer
+- 👶  a fullstack software developer
 - 🔄  a career switcher. I used to be a tech recruiter
 - a financial crime fighter at Cable tech!  🦸‍♀️ 
 - 🖤  an empathetic individual who loves to spend time with other people  👯‍♀️
