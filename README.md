@@ -2,12 +2,12 @@
 
 Here's something about who I am..
 
-- 👶  a fullstack software developer
-- 🔄  a career switcher. I used to be a tech recruiter
-- a financial crime fighter at Cable tech!  🦸‍♀️ 
-- 🖤  an empathetic individual who loves to spend time with other people  👯‍♀️
-- always aiming to be a better person (and developer) than I was yesterday  💪
+- 🦸‍♀️ a full-stack software developer with 3+ years of experience
+- 👩‍💻 Typescript, React, Next.js, Golang, gRPC, and Postgres are my friends!
+- 🔄 a career switcher: I used to be a tech recruiter
+- 🖤 an empathetic individual who loves to create good vibes  👯‍♀️
+- 🌟 always aiming to be a better person (and developer) than what I was yesterday  💪
 
-Feel free to reach out! I am at the beginning of my career and I am keen to grow my network. <br>
+Feel free to reach out! <br>
 You can get in contact with me at benedetta.arinci@gmail.com or visit my [LinkedIn profile](https://www.linkedin.com/in/benedetta-arinci/).
 
